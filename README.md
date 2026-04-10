@@ -70,5 +70,5 @@ I'm currently open to opportunities as a Mobile Developer.
 Feel free to reach out!
 
 - 📧 Email: devanoahmadd@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/devanoahmad/)
+- 💼 LinkedIn: [linkedin.com/in/devanoahmad](https://linkedin.com/in/devanoahmad/)
 - 🐙 GitHub: [github.com/devanoahmadd](https://github.com/devanoahmadd)
