@@ -16,7 +16,7 @@ my skill set into Kotlin Multiplatform and React Native.
 - **Platform:** Android & iOS
 - **Highlights:** Movie browsing by category, search functionality,
   detailed movie info including synopsis, cast, and ratings
-- **Repo:** [cinemate-app]()
+- **Repo:** [cinemate-app](https://github.com/devanoahmadd/cinemate-app.git)
 - **Status:** ✅ Completed
 
 ---
