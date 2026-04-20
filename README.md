@@ -29,7 +29,7 @@ my skill set into Kotlin Multiplatform and React Native.
 - **Platform:** Android
 - **Highlights:** Menu management, material stock tracking,
 cashier transaction flow, and transaction history
-- **Repo:** [warungmrb-app]()
+- **Repo:** [warungmrb-app](https://github.com/devanoahmadd/mrb-app)
 - **Status:** ✅ Completed
 
 ---
